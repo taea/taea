@@ -1,8 +1,8 @@
-Freelance Designer. Co-founder of esa.io (2014–2025). 🐶🦀
+Designer / Co-founder of [esa.io](https://esa.io) (2014–2025) / Figuring out what's next 🐶🦀🏎
 
 ---
 
-デザイナーです。2014年から約11年間、情報共有サービス [esa.io](https://esa.io) を作っていました。現在はフリーランスとして活動
+デザイナーです。2014年から約11年間、情報共有サービス [esa.io](https://esa.io) を作っていました。現在は次に何をやるか模索中です。
 
 ## 経歴
 
