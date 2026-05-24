@@ -1,10 +1,8 @@
-Freelance Designer based in Tokyo. Co-founder of [esa.io](https://esa.io) (2014–2025). Designing for the Ruby community.
+Freelance Designer. Co-founder of esa.io (2014–2025). 🐶🦀
 
 ---
 
-## こんにちは 👋
-
-デザイナーです。2014年から約11年間、情報共有サービス [esa.io](https://esa.io) を作っていました。現在はフリーランスとして、主に Ruby コミュニティ周辺のデザインをしています。
+デザイナーです。2014年から約11年間、情報共有サービス [esa.io](https://esa.io) を作っていました。現在はフリーランスとして活動
 
 ## 経歴
 
