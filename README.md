@@ -19,7 +19,7 @@ Freelance Designer. Co-founder of esa.io (2014–2025). 🐶🦀
 | 2014年〜 | **[esa.io](https://esa.io)** を作って esa LLC を創業 with [@fukayatsu](https://github.com/fukayatsu) |
 | 2025年 | esa LLC 退職 → 第三次フリーランス |
 
-## デザインワーク（Ruby コミュニティ）
+## デザインワーク
 
 - [ruby-lang.org](https://www.ruby-lang.org/ja/) リニューアルデザイン (2025)
 - [Kaigi on Rails](https://kaigionrails.org/) デザイン・実装 (2025–)
